@@ -1,0 +1,27 @@
+.body{
+  background-color: #34495e;
+}
+
+.wrapper{
+  line-height: 2;
+  font-size: 4em;
+  text-align: center;
+}
+
+h1{
+  display: inline-block;
+}
+
+.img-section{
+  margin-top: 50px;
+}
+.user-img{
+  margin-right: 40px;
+}
+.comp-img{
+  margin-left: 40px;
+}
+
+.buttons-section{
+  margin-top: 80px;
+}
